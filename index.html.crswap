@@ -1,0 +1,140 @@
+<html id="tudo">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="estilo.css" media="screen">
+    <link rel="Website icon" href="icon.png">
+        <title>
+        Amsterdam - Países Baixos
+        </title>
+    </head>
+
+    <body>
+        <header id="cabecalho">
+            <div id="logodiv">
+             <a href="#fundo"><img id="logo" width="50%" height="50%" src="capitolio.png" alt="imagem de uma cidade"/></a>
+            </div>
+            <ul id="menu">
+                <li><a href="#box1" id="a1">História </a></li>
+                <li><a href="#box2" id="a2">  Personalidades históricas </a></li>
+                <li><a href="#box3" id="a3"> Paisagens </a></li>
+                <li><a href="#box4" id="a4"> Monumentos </a></li>
+            </ul>
+       </header>
+       <div id="fundo" class="centralizado">
+        <h1> Amsterdam - O centro neerlandês</h1>
+       </div>
+
+       <section id="a1" class="destaque ">
+        <div id="box1">
+            <h1 class="centralizado"> História</h1>
+        </div>
+    
+        <div class="coluna dois">
+            <img src="img1.jpg" width="90%" height="70%" alt="museu Rijksmuseum" />
+            <br> <p> Foto do museu nacional dos Países Baixos, Rijksmuseum, em Amsterdam </p>
+        </div>
+        <div class="coluna dois">
+            <h1 class="centralizado justificado ">
+            A trajetória histórica de Amsterdam
+            </h1>
+        </div>
+    
+        <div class="coluna dois">
+            <p class="justificado ">
+                Amsterdam, fundada no século XII como uma vila de pescadores, tornou-se um importante porto e centro financeiro durante a Era de Ouro dos Países Baixos no século XVII. A cidade desenvolveu-se economicamente e culturalmente, com a construção de seus famosos canais. Conhecida por sua diversidade religiosa e tolerância, acolheu refugiados de várias partes da Europa. Durante a Segunda Guerra Mundial, foi ocupada pelos nazistas e a comunidade judaica sofreu grandes perdas. No pós-guerra, Amsterdam se reconstruiu e hoje é um centro cultural e econômico renomado, famoso por seus museus, arquitetura histórica e políticas progressistas.
+            </p>
+        </div>
+    </section>
+
+    <section id="box2" class="destaque">
+        <div class="txt_div">
+            <h1>Personalidades históricas</h1>
+            <h2> Rembrandt van Rijn (1606-1669) </h2>
+                <p class="justificado">Um dos maiores pintores e gravadores da história da arte europeia, Rembrandt passou grande parte de sua vida e carreira em Amsterdam. Ele é famoso por suas obras de profundidade psicológica e domínio da luz e sombra. </p> 
+
+                <h2>Anne Frank (1929-1945)</h2>
+                <p class="justificado">Uma jovem judia alemã que se escondeu com sua família em Amsterdam durante a ocupação nazista na Segunda Guerra Mundial. Seu diário, escrito durante o período de ocultação, tornou-se um dos livros mais conhecidos do mundo, destacando os horrores do Holocausto.</p> 
+                
+               <h2>Baruch Spinoza (1632-1677)</h2>
+               <p class="justificado"> Um filósofo judeu-português que viveu em Amsterdam, Spinoza é considerado um dos grandes racionalistas da filosofia do século XVII. Suas ideias influenciaram o pensamento iluminista e moderno. </p> 
+                
+                <h2>Vincent van Gogh (1853-1890) </h2>
+                <p class="justificado"> Embora não tenha nascido em Amsterdam, Van Gogh viveu na cidade em diferentes momentos de sua vida. Ele é um dos pintores pós-impressionistas mais famosos do mundo, conhecido por suas obras emotivas e vibrantes. Seu museu em Amsterdam é um dos mais visitados da cidade.</p>
+        </div>
+
+        <div class="imagens_div">
+            <img src="spinoza.jpg" alt=" um retrato pintado de spinoza">
+            <img src="rijn.jpg" alt=" um retrato pintado de rijn">
+        </div>
+
+        <div class="img_div"> 
+        <img src="vangogh.jpg" alt="um retrato pintado de van gogh">
+        <img src="frank.png" alt="uma foto da jovem anne frank">
+        </div>
+    </section>
+
+    <section id="box3" class="destaque">
+        <div class="imag_div">
+
+        <img src="paisagem.jpg" width="80%" height="90%"; alt="paisagem urbana">
+
+        </div>
+
+        <div id="letra" class="text_div">
+
+            <h1> Paisagens </h1>
+            <p class="justificado"> Amsterdam, a capital dos Países Baixos, encanta com seus canais pitorescos e casas flutuantes, complementados por uma arquitetura histórica de fachadas estreitas. A cidade é rica em espaços verdes, como o Vondelpark, e possui mais de 1.200 pontes encantadoras, muitas iluminadas à noite. Praças vibrantes como a Dam Square e a Leidseplein, ciclovias movimentadas e uma abundância de bicicletas definem a vida urbana. O cenário cultural é vibrante, com museus renomados como o Rijksmuseum e o Museu Van Gogh. Na primavera, jardins e mercados de flores, especialmente tulipas, florescem, enquanto bairros distintos como Jordaan e De Pijp oferecem charme e diversidade únicos.</p>
+
+                <button class="botao">
+                   <a href="https://www.istockphoto.com/br/fotos/amsterdam" target="blank"> Saiba mais! </a>
+                </button>
+    
+        </div>
+
+    </section>
+          
+    <section id="box4">
+        <div id="monumentos">
+            <h1> Monumentos </h1>
+        </div>
+        <div id="monumentos_ft_txt">
+            <div class="divs">
+                <img src="divs2.jpg" width="90%" height="45%">
+                <h4 id="letra"> Moinho Van Sloten</h4>
+                <p>O Molen Van Sloten, de 1847, ainda funciona e que está aberto ao público para que todos possam perceber a sua técnica e igualmente a história da aldeia em que se insere.</p>
+            </div>
+            <div class="divs">
+                <img src="divs1.jpeg" width="90%" height="45%">
+                <h4 id="letra"> Rijksmuseum</h4>
+                <p>O museu nacional dos Países Baixos é dedicado a artes e história. Além disso, tem uma larga coleção de pinturas da idade de ouro neerlandesa e uma substancial coleção de arte asiática.</p>
+            </div>
+            <div class="divs">
+                <img src="divs3.jpeg" width="90%" height="45%">
+                <h4 id="letra"> Biblioteca Pública Central</h4>
+                <p>É uma das maiores e mais modernas da Europa, com sete andares de livros, mídias digitais e espaços culturais e oferece uma vista panorâmica da cidade e serve como um centro de conhecimento e inspiração.</p>
+            </div>
+            <div class="divs">
+                <img src="divs4.png" width="90%" height="45%">
+                <h4 id="letra"> Munttoren </h4>
+                <p>De 1490, a torre era um dos portões das muralhas medievais. No entanto, esta torre original é a base após um incêndio em 1618. Reconstruída em estilo barroco, a torre da moeda atual inclui um sinal sonoro que soa a cada quarto de hora.</p>
+            </div>
+        </div>
+       </section>
+
+       <footer id="box5" class="destaque ">
+            
+                <h2 id="letrao" class="centralizado"> Sobre mim</h2>
+            
+            <div class="centralizado">
+        <h3>Protótipo de site NÃO OFICIAL codificado por Bernardo Renner</h3>
+                <p>Esse é o meu segundo projeto de site, cheio de varias ações de Html e Css</p>
+                <h3>Contato</h3>
+                <p>04041909</p>
+            </div>
+        
+       </footer>
+    </body>
+</html>
