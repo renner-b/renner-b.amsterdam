@@ -64,6 +64,15 @@ body {
 
 #box2 {
     width: 100%;
+    height: 30%;
+    text-align: center;
+    font-size:xx-large;
+    font-style:initial;
+}
+
+#section2 {
+
+ width: 100%;
     height: 120vh;
     display: flex;
 }
